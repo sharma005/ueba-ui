@@ -1,0 +1,3 @@
+# The Lambda runtime already ships boto3/botocore, so nothing is needed there.
+# `requests` is only used by backfill.py, which runs locally.
+requests>=2.31.0

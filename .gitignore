@@ -1,0 +1,18 @@
+# Secrets
+.api-key
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Build output
+ui/dist/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
